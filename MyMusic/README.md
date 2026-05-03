@@ -80,4 +80,3 @@ This will generate a `MyMusic.war` (or `untitled4.war`) file in the `target/` di
 -   `pom.xml`: Maven dependencies.
 
 ---
-*Created with ❤️ by Vikram Suthar*
